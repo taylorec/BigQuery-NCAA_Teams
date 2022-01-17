@@ -1,0 +1,14 @@
+
+SELECT 
+    MA.name,
+    MA.mascot,
+    MB.school_ncaa,
+    MB.conf_name,
+    MB.venue_state,
+    T.color
+FROM 
+    `bigquery-public-data.ncaa_basketball.mascots` MA
+        JOIN
+    `bigquery-public-data.ncaa_basketball.mbb_teams` MB ON MA.ID = MB.ID
+        JOIN
+    `bigquery-public-data.ncaa_basketball.team_colors` T ON MA.ID = T.ID

@@ -1,0 +1,352 @@
+name,mascot,school_ncaa,conf_name,venue_state,color
+Golden Hurricane,Hurricane,Tulsa,American Athletic,OK,#005496
+Sun Devils,Devil,Arizona St.,Pacific 12,AZ,#8b2346
+Dragons,Dragon,Drexel,Colonial,PA,#ecc217
+Braves,Gargoyle,Bradley,Missouri Valley,IL,#fa143f
+Golden Griffins,Griffin,Canisius,Metro Atlantic Athletic,NY,#eaac18
+Wolverines,None,Michigan,Big Ten,MI,#003976
+Flames,Dragon,Ill.-Chicago,Horizon,IL,#CC3333
+Phoenix,Phoenix,Green Bay,Horizon,WI,#006a4d
+Delta Devils,Devil,Mississippi Val.,Southwestern Athletic,MS,#004e25
+Phoenix,Phoenix,Elon,Colonial,NC,#98002e
+Demon Deacons,Demon,Wake Forest,Atlantic Coast,NC,#141414
+Demons,Demon,Northwestern St.,Southland,LA,#54209e
+Islanders,Tiki Totem,A&M-Corpus Christi,Southland,TX,#013197
+Waves,Wave,Pepperdine,West Coast,CA,#e57728
+Fighting Illini,None,Illinois,Big Ten,IL,#e0322a
+Billikens,Billiken,Saint Louis,Atlantic 10,MO,#00529c
+Hilltoppers,Furry Blob,Western Ky.,Conference USA,KY,#d41a00
+Aggies,Dustdevil,Texas A&M,Southeastern,TX,#500000
+Titans,Titan,Detroit Mercy,Horizon,MI,#003a8a
+Jaspers,None,Manhattan,Metro Atlantic Athletic,NY,#00703c
+Jayhawks,Jayhawk,Kansas,Big 12,KS,#006ab5
+Chippewas,None,Central Mich.,Mid-American,MI,#630237
+Blazers,Dragon,UAB,Conference USA,AL,#1E6B52
+Tribe,Griffin,William & Mary,Colonial,VA,#115740
+Blue Raiders,Winged Blue Horse,Middle Tenn.,Conference USA,TN,#0047aa
+Blue Demons,Demon,DePaul,Big East,IL,#0059a9
+Blue Devils,Devil,Central Conn. St.,Northeast,CT,#004385
+Blue Devils,Devil,Duke,Atlantic Coast,NC,#00529b
+Horned Frogs,Horned Frogs,TCU,Big 12,TX,#34297a
+Anteaters,Anteater,UC Irvine,Big West,CA,#002a5c
+Spiders,Spider,Richmond,Atlantic 10,VA,#000066
+Cardinal,California Redwood,Stanford,Pacific 12,CA,#a80532
+Rebels,Rebel,UNLV,Mountain West,NV,#cc092f
+Spartans,Spartan,USC Upstate,Atlantic Sun,SC,#00682e
+Governors,Governor,Austin Peay,Ohio Valley,TN,#C41E3A
+Red Flash,Friar,Saint Francis (PA),Northeast,PA,#a31100
+Highlanders,Scotsman,NJIT,Atlantic Sun,NJ,#163e68
+Pioneers,Pioneers,Denver,Summit League,CO,#b6a880
+Explorers,Explorers,La Salle,Atlantic 10,PA,#efc309
+Dukes,Duke,Duquesne,Atlantic 10,PA,#000144
+Cornhuskers,Cornhuskers,Nebraska,Big Ten,NE,#e51937
+Highlanders,Human,Radford,Big South,VA,#e13a3e
+Trojans,Trojans,Southern California,Pacific 12,CA,#990000
+Vikings,Viking,Portland St.,Big Sky,OR,#004319
+Gaels,Gael,Saint Mary's (CA),West Coast,CA,#06315b
+Commodores,Commodores,Vanderbilt,Southeastern,TN,#141414
+Mountaineers,Mountaineer,Appalachian St.,Sun Belt,NC,#d6ac00
+Red Raiders,Raider and horse,Texas Tech,Big 12,TX,#CC0000
+Vandals,Vandal,Idaho,Big Sky,ID,#b58e5b
+Boilermakers,Human,Purdue,Big Ten,IN,#141414
+Spartans,Spartan,Michigan St.,Big Ten,MI,#18453B
+Trojans,Trojans,Troy,Sun Belt,AL,#872434
+Gauchos,Gaucho,UC Santa Barbara,Big West,CA,#0039a6
+Norse,Viking,Northern Ky.,Horizon,KY,#141414
+49ers,49er,Long Beach St.,Big West,CA,#efc309
+Colonials,Colonial,Robert Morris,Northeast,PA,#16234a
+Spartans,Spartan,Norfolk St.,Mid Eastern Athletic,VA,#1d8e77
+Mountaineers,Mountaineer,Mt. St. Mary's,Northeast,MD,#122d53
+Quakers,Quaker,Penn,Ivy,PA,#ae223e
+Cowboys,Cowboy,Wyoming,Mountain West,WY,#492f24
+Privateers,Pirate,New Orleans,Southland,LA,#005ca6
+Cowboys,Cowboys,McNeese,Southland,LA,#004988
+Friars,Friar,Providence,Big East,RI,#141414
+Pioneers,Pioneers,Sacred Heart,Northeast,CT,#d6243d
+Crusaders,Crusader,Holy Cross,Patriot League,MA,#602d89
+Sooners,Human,Oklahoma,Big 12,OK,#a80532
+Spartans,Spartan,San Jose St.,Mountain West,CA,#5492cc
+Toreros,Torero,San Diego,West Coast,CA,#004280
+Aggies,Cowboy,New Mexico St.,Western Athletic,NM,#882345
+Hatters,Human,Stetson,Atlantic Sun,FL,#005737
+49ers,49er,Charlotte,Conference USA,NC,#00693e
+Lumberjacks,Lumberjack,Northern Ariz.,Big Sky,AZ,#003b76
+Pirates,Pirates,East Carolina,American Athletic,NC,#6944a0
+Colonels,Colonel,Nicholls St.,Southland,LA,#afb7ba
+Matadors,Matadors,CSUN,Big West,CA,#c70029
+Seminoles,Human and horse,Florida St.,Atlantic Coast,FL,#540115
+Vikings,Viking,Cleveland St.,Horizon,OH,#004f36
+Lumberjacks,Lumberjack,SFA,Southland,TX,#330066
+Pirates,Pirates,Seton Hall,Big East,NJ,#004488
+Dons,Don,San Francisco,West Coast,CA,#254929
+Pilots,Pilots,Portland,West Coast,OR,#351576
+Musketeers,Musketeer,Xavier,Big East,OH,#002857
+Crimson,Pilgrim,Harvard,Ivy,MA,#A41034
+Mountaineers,Mountaineer,West Virginia,Big 12,WV,#00447c
+Pirates,Pirates,Hampton,Mid Eastern Athletic,VA,#0061aa
+Spartans,Spartan,UNCG,Southern,NC,#003c79
+Warriors,Warrior,Hawaii,Big West,HI,#004631
+Buccaneers,Pirate,ETSU,Southern,TN,#041E42
+Colonials,Colonial,George Washington,Atlantic 10,DC,#002147
+Gaels,Gael,Iona,Metro Atlantic Athletic,NY,#702e3d
+Patriots,Patriot,George Mason,Atlantic 10,VA,#f2aa00
+Aztecs,Aztec Warrior,San Diego St.,Mountain West,CA,#A81933
+Big Green,Corsair,Dartmouth,Ivy,NH,#00723c
+Cavaliers,Cavalier,Virginia,Atlantic Coast,VA,#002147
+Rockets,Astronaut,Toledo,Mid-American,OH,#002663
+Scarlet Knights,Knight,Rutgers,Big Ten,NJ,#d21034
+Raiders,Raiders,Colgate,Patriot League,NY,#a50334
+Fighting Irish,Leprechaun,Notre Dame,Atlantic Coast,IN,#002b5c
+Blue Hose,Scotsman,Presbyterian,Big South,SC,#0035AD
+Minutemen,Minuteman,Massachusetts,Atlantic 10,MA,#881c1c
+Colonels,Colonel,Eastern Ky.,Ohio Valley,KY,#5E213B
+Paladins,Knight,Furman,Southern,SC,#34327c
+Crusaders,Crusader,Valparaiso,Missouri Valley,IN,#613318
+Flyers,Pilot,Dayton,Atlantic 10,OH,#002453
+Knights,Knight and Horse,UCF,American Athletic,FL,#bba378
+Miners,Miners,UTEP,Conference USA,TX,#eb5a0d
+Trojans,Trojans,Little Rock,Sun Belt,AR,#6e2639
+Cowboys,Cowboy,Oklahoma St.,Big 12,OK,#FF6600
+Aces,Riverboat Gambler,Evansville,Missouri Valley,IN,#532380
+Buccaneers,Pirate,Charleston So.,Big South,SC,#11467b
+Golden Gophers,Gopher,Minnesota,Big Ten,MN,#872434
+Beavers,Beaver,Oregon St.,Pacific 12,OR,#e24912
+Sycamores,Blue species-less genderless forest animal,Indiana St.,Missouri Valley,IN,#0046ad
+Highlanders,Bear,UC Riverside,Big West,CA,#e0ae00
+Lions,Lion,Southeastern La.,Southland,LA,#f3b800
+Monarchs,Lion,Old Dominion,Conference USA,VA,#003564
+Golden Lions,Lion,Ark.-Pine Bluff,Southwestern Athletic,AR,#f29103
+Pride,Lion,Hofstra,Colonial,NY,#f6ba37
+Lions,Lion,Loyola Marymount,West Coast,CA,#2e3d65
+Nittany Lions,Lion,Penn St.,Big Ten,PA,#002147
+Lions,Lion,Columbia,Ivy,NY,#015289
+Ramblers,Wolf,Loyola Chicago,Missouri Valley,IL,#eb9f00
+Lobos,Wolf,New Mexico,Mountain West,NM,#be0f34
+Red Wolves,Wolf,Arkansas St.,Sun Belt,AR,#BE0F34
+Raiders,Wolf,Wright St.,Horizon,OH,#efad00
+Bonnies,Wolf,St. Bonaventure,Atlantic 10,NY,#7b2d19
+Seawolves,Wolf,Stony Brook,America East,NY,#990000
+Wolfpack,Wolf,NC State,Atlantic Coast,NC,#cc092f
+Wolf Pack,Wolf,Nevada,Mountain West,NV,#003366
+Tigers,Tigers,Princeton,Ivy,NJ,#e87132
+Tigers,Tigers,Jackson St.,Southwestern Athletic,MS,#002654
+Tigers,Tigers,Tennessee St.,Ohio Valley,TN,#003183
+Tigers,Tigers,Missouri,Southeastern,MO,#F1B82D
+Tigers,Tigers,Clemson,Atlantic Coast,SC,#F66733
+Tigers,Tigers,Auburn,Southeastern,AL,#f58025
+Tigers,Tigers,Texas Southern,Southwestern Athletic,TX,#70283e
+Tigers,Tigers,Savannah St.,Mid Eastern Athletic,GA,#f65800
+Tigers,Tigers,LSU,Southeastern,LA,#461d7c
+Tigers,Tigers,Towson,Colonial,MD,#d7aa01
+Tigers,Tigers,Memphis,American Athletic,TN,#002878
+Tigers,Tigers,Pacific,West Coast,CA,#ff6900
+Tigers,Tigers,Grambling,Southwestern Athletic,LA,#be9a02
+Badgers,Badger,Wisconsin,Big Ten,WI,#be0f34
+Bobcats,Bobcat,Montana St.,Big Sky,MT,#0077bc
+Bobcats,Bobcat,Quinnipiac,Metro Atlantic Athletic,CT,#aa8406
+Bobcats,Bobcat,Texas St.,Sun Belt,TX,#5a2c34
+Bobcats,Bobcat,Ohio,Mid-American,OH,#336633
+Cougars,Cougar,SIUE,Ohio Valley,IL,#f94227
+Catamounts,Cougar,Western Caro.,Southern,NC,#d5a977
+Cougars,Cougar,Col. of Charleston,Colonial,SC,#772932
+Cougars,Cougar,Washington St.,Pacific 12,WA,#981e32
+Cougars,Cougar,Houston,American Athletic,TX,#CC0000
+Catamounts,Catamount,Vermont,America East,VT,#005030
+Cougars,Cougar,Chicago St.,Western Athletic,IL,#004423
+Cougars,Cougar,BYU,West Coast,UT,#002255
+Coyotes,Coyote,South Dakota,Summit League,SD,#ff2310
+Jaguars,Jaguar,South Ala.,Sun Belt,AL,#eb1e00
+Jaguars,Jaguar,Southern U.,Southwestern Athletic,LA,#5fb2e3
+Jaguars,Jaguar,IUPUI,Horizon,IN,#dab36b
+Bearkats,Bearkat,Sam Houston St.,Southland,TX,#f88834
+Bearcats,Bearcat,Binghamton,America East,NY,#006a4e
+Bearcats,Bearcat,Cincinnati,American Athletic,KY,#141414
+Leopards,Leopard,Lafayette,Patriot League,PA,#98002e
+Panthers,Panther,Georgia St.,Sun Belt,GA,#005dab
+Panthers,Panther,Eastern Ill.,Ohio Valley,IL,#0084be
+Panthers,Panther,Milwaukee,Horizon,WI,#000000
+Golden Panthers,Panther,FIU,Conference USA,FL,#c79d1f
+Panthers,Panther,UNI,Missouri Valley,IA,#473282
+Panthers,Panther,High Point,Big South,NC,#243a94
+Panthers,Panther,Pittsburgh,Atlantic Coast,PA,#002144
+Panthers,Panther,Prairie View,Southwestern Athletic,TX,#803e99
+Red Foxes,Red Fox,Marist,Metro Atlantic Athletic,NY,#d4362a
+Wildcats,Wildcat,Kentucky,Southeastern,KY,#005DAA
+Wildcats,Wildcat,Davidson,Atlantic 10,NC,#e51937
+Wildcats,Wildcat,Arizona,Pacific 12,AZ,#003366
+Wildcats,Wildcat,Northwestern,Big Ten,IL,#512698
+Wildcats,Wildcat,Villanova,Big East,PA,#003366
+Wildcats,Wildcat,New Hampshire,America East,NH,#002162
+Wildcats,Wildcat,Abilene Christian,Southland,TX,#68278e
+Wildcats,Wildcat,Kansas St.,Big 12,KS,#502d7f
+Wildcats,Wildcat,Weber St.,Big Sky,UT,#492365
+Wildcats,Wildcat,Bethune-Cookman,Mid Eastern Athletic,FL,#f5ba00
+Wolverines,Wolverine,Utah Valley,Western Athletic,UT,#00460f
+Bears,Black Bear,Mercer,Southern,GA,#ec751f
+Rebels,Black bear,Ole Miss,Southeastern,MS,#002663
+Black Bears,Black Bear,Maine,America East,ME,#6696be
+Bears,Black Bear,Central Ark.,Southland,AR,#53327d
+Bruins,Brown Bear,Belmont,Ohio Valley,TN,#00205c
+Bruins,Brown Bear,UCLA,Pacific 12,CA,#0072cf
+Big Red,Brown Bear,Cornell,Ivy,NY,#CC3333
+Bears,Brown Bear,Morgan St.,Mid Eastern Athletic,MD,#fc5a14
+Mean Green,Grizzly Bear,North Texas,Conference USA,TX,#00622e
+Bears,Brown Bear,Missouri St.,Missouri Valley,MO,#491317
+Bears,Brown Bear,Brown,Ivy,RI,#996633
+Bears,Brown Bear,Northern Colo.,Big Sky,CO,#ffb500
+Bears,Brown Bear,Baylor,Big 12,TX,#083a27
+Mocs,Brown Bear,Chattanooga,Southern,TN,#00386b
+Grizzlies,Grizzly Bear,Montana,Big Sky,MT,#8b2346
+Golden Grizzlies,Golden Bear,Oakland,Horizon,MI,#9f8346
+Golden Bears,Golden Bear,California,Pacific 12,CA,#00325b
+Bengals,Bengal Tiger,Idaho St.,Big Sky,ID,#ff7800
+Bulldogs,Bulldog,Alabama A&M,Southwestern Athletic,AL,#a41e4c
+Bulldogs,Bulldog,Louisiana Tech,Conference USA,LA,#002f8b
+Saints,St. Bernard,Siena,Metro Atlantic Athletic,NY,#04523c
+Bulldogs,Bulldog,South Carolina St.,Mid Eastern Athletic,SC,#951123
+Terriers,Terriers,St. Francis Brooklyn,Northeast,NY,#0060a9
+Huskies,Husky,Northern Ill.,Mid-American,IL,#b42836
+Runnin' Bulldogs,Bulldog,Gardner-Webb,Big South,NC,#c41230
+Bulldogs,Bulldog,Drake,Missouri Valley,IA,#002181
+Terrapins,Boston Terrier,Maryland,Big Ten,MD,#e31836
+Bulldogs,Bulldog,UNC Asheville,Big South,NC,#003C77
+Retrievers,Retriever,UMBC,America East,MD,#bc9300
+Bulldogs,Bulldog,Samford,Southern,AL,#003362
+Bulldogs,Bulldog,Yale,Ivy,CT,#00346a
+Terriers,Terriers,Wofford,Southern,SC,#886E4C
+Greyhounds,Greyhound,Loyola Maryland,Patriot League,MD,#a5a6a8
+Salukis,Saluki,Southern Ill.,Missouri Valley,IL,#872e3f
+Bulldogs,Bulldog,Bryant,Northeast,RI,#a49372
+Great Danes,Great Dane,Albany (NY),America East,NY,#1b2777
+Huskies,Husky,UConn,American Athletic,CT,#002a5c
+Terriers,Terriers,Boston U.,Patriot League,MA,#d90400
+Bulldogs,Bulldog,Georgia,Southeastern,GA,#CC0000
+Bulldogs,Bulldog,Mississippi St.,Southeastern,MS,#660000
+Huskies,Husky,Washington,Pacific 12,WA,#39275B
+Aggies,Bulldog,N.C. A&T,Mid Eastern Athletic,NC,#ffb82b
+Bulldogs,Bulldog,Gonzaga,West Coast,WA,#003366
+Hoyas,Bulldog,Georgetown,Big East,DC,#00275d
+Bulldogs,Bulldog,Fresno St.,Mountain West,CA,#d6083b
+Bulldogs,Bulldog,The Citadel,Southern,SC,#132e5e
+Bulldogs,Bulldog,Butler,Big East,IN,#00467f
+Huskies,Husky,Houston Baptist,Southland,TX,#023795
+Huskies,Husky,Northeastern,Colonial,MA,#000000
+Dukes,Bulldog,James Madison,Colonial,VA,#484191
+Volunteers,Coonhound,Tennessee,Southeastern,TN,#f77f00
+Leathernecks,Bulldog,Western Ill.,Summit League,IL,#663399
+Hoosiers,None,Indiana,Big Ten,IN,#9e1b32
+Shockers,Wheat,Wichita St.,American Athletic,KS,#141414
+Rattlers,Diamondback Rattlesnake,Florida A&M,Mid Eastern Athletic,FL,#006b25
+Ragin' Cajuns,Cayenne Pepper,Louisiana,Sun Belt,LA,#cf202f
+Gators,Alligator,Florida,Southeastern,FL,#003488
+Jackrabbits,Rabbit,South Dakota St.,Summit League,SD,#0039a6
+Orange,Orange,Syracuse,Atlantic Coast,NY,#ff5113
+Buckeyes,Buckeye Nut,Ohio St.,Big Ten,OH,#bb0000
+Fightin Blue Hens,Hen,Delaware,Colonial,DE,#00539f
+Gamecocks,Rooster,Jacksonville St.,Ohio Valley,AL,#be0f34
+Chanticleers,Rooster,Coastal Caro.,Sun Belt,SC,#007079
+Gamecocks,Rooster,South Carolina,Southeastern,SC,#73000A
+Peacocks,Peacock,Saint Peter's,Metro Atlantic Athletic,NJ,#006bb6
+Hokies,Fictional Bird,Virginia Tech,Atlantic Coast,VA,#660000
+Hornets,Hornets,Alabama St.,Southwestern Athletic,AL,#f19d17
+Hornets,Hornets,Delaware St.,Mid Eastern Athletic,DE,#279fcc
+Hornets,Hornet,Sacramento St.,Big Sky,CA,#005643
+Yellow Jackets,Yellow Jacket,Georgia Tech,Atlantic Coast,GA,#b09465
+Crimson Tide,Elephant,Alabama,Southeastern,AL,#a32136
+Titans,Elephant,Cal St. Fullerton,Big West,CA,#003057
+Mastodons,Mastodons,Fort Wayne,Summit League,IN,#015838
+Ducks,Duck,Oregon,Pacific 12,OR,#004F27
+Stags,Stag,Fairfield,Metro Atlantic Athletic,CT,#e93337
+Midshipmen,Goat,Navy,Patriot League,MD,#333366
+Buffaloes,Buffalo,Colorado,Pacific 12,CO,#000000
+Bison,Bison,North Dakota St.,Summit League,ND,#006633
+Bison,Bison,Bucknell,Patriot League,PA,#004c8b
+Thundering Herd,Bison,Marshall,Conference USA,WV,#11461b
+Bisons,Bison,Lipscomb,Atlantic Sun,TN,#f4b53b
+Bison,Bison,Howard,Mid Eastern Athletic,DC,#ef3e43
+Rams,Rams,Rhode Island,Atlantic 10,RI,#004990
+Tar Heels,Sheep,North Carolina,Atlantic Coast,NC,#8db9e5
+Rams,Rams,Fordham,Atlantic 10,NY,#a90332
+Rams,Ram,VCU,Atlantic 10,VA,#141414
+Rams,Rams,Colorado St.,Mountain West,CO,#00674e
+Fighting Camels,Camel,Campbell,Big South,NC,#fa9223
+Dolphins,Dolphin,Jacksonville,Atlantic Sun,FL,#005239
+Longhorns,Cow,Texas,Big 12,TX,#CC5500
+Bulls,Bull,South Fla.,American Athletic,FL,#006747
+Bulls,Bull,Buffalo,Mid-American,NY,#041A9B
+Aggies,Bull,Utah St.,Mountain West,UT,#00264a
+Mavericks,Bull,Omaha,Summit League,NE,#163e68
+Razorbacks,Red Russian Boar,Arkansas,Southeastern,AR,#BE0F34
+Antelopes,Pronghorn Antelope,Grand Canyon,Western Athletic,AZ,#4e0c76
+Roadrunners,Roadrunner,UTSA,Conference USA,TX,#fe7502
+Roadrunners,Roadrunner,CSU Bakersfield,Western Athletic,CA,#003fa4
+Owls,Owls,Rice,Conference USA,TX,#003f82
+Owls,Owls,Temple,American Athletic,PA,#9e1b34
+Owls,Owls,Kennesaw St.,Atlantic Sun,GA,#ecbb09
+Owls,Owls,Fla. Atlantic,Conference USA,FL,#002D62
+Keydets,Kangaroo,VMI,Southern,VA,#c41700
+Zips,Kangaroo,Akron,Mid-American,OH,#00285e
+Kangaroos,Kangaroo,UMKC,Western Athletic,MO,#e0ae00
+Falcons,Falcon,Bowling Green,Mid-American,OH,#4f2c1d
+Falcons,Falcon,Air Force,Mountain West,CO,#0033a1
+Bluejays,Blue Jay,Creighton,Big East,NE,#005CA9
+Cardinals,Cardinal,Incarnate Word,Southland,TX,#d72c23
+Redbirds,Redbird,Illinois St.,Missouri Valley,IL,#ca1134
+Cardinals,Cardinal,Louisville,Atlantic Coast,KY,#AD0000
+Cardinals,Cardinal,Lamar University,Southland,TX,#ec2a31
+Cardinals,Cardinal,Ball St.,Mid-American,IN,#d90400
+Cyclones,Cardinal,Iowa St.,Big 12,IA,#A71930
+Blackbirds,Blackbird,LIU Brooklyn,Northeast,NY,#0064ee
+Red Storm,Thunderbird,St. John's (NY),Big East,NY,#CF102D
+Thunderbirds,Thunderbirds,Southern Utah,Big Sky,UT,#d8240e
+Hurricanes,Ibis,Miami (FL),Atlantic Coast,FL,#005030
+Green Wave,Pelican,Tulane,American Athletic,LA,#005737
+Black Knights,Mule,Army West Point,Patriot League,NY,#ccb284
+Mustangs,Mustang,SMU,American Athletic,TX,#e51932
+Vaqueros,Horse,UTRGV,Western Athletic,TX,#006f3c
+Racers,Horse,Murray St.,Ohio Valley,KY,#002144
+Knights,Horse and devil,Fairleigh Dickinson,Northeast,NJ,#003479
+Broncos,Bronco,Boise St.,Mountain West,ID,#005dab
+Aggies,Mustang,UC Davis,Big West,CA,#002855
+Mavericks,Horse,UT Arlington,Sun Belt,TX,#0064b1
+Mustangs,Mustang,Cal Poly,Big West,CA,#005836
+Broncos,Bronco,Western Mich.,Mid-American,MI,#522c1b
+Broncs,Bronco,Rider,Metro Atlantic Athletic,NJ,#bb1c30
+Lancers,Horse,Longwood,Big South,VA,#1a5595
+Broncos,Bronco,Santa Clara,West Coast,CA,#720900
+Fighting Hawks,Hawk,North Dakota,Big Sky,ND,#009A44
+Skyhawks,Hawk,UT Martin,Ohio Valley,TN,#ff6900
+RedHawks,Redhawks,Miami (OH),Mid-American,OH,#d51a00
+Hawks,Hawk,UMES,Mid Eastern Athletic,MD,#8f2532
+River Hawks,River Hawk,UMass Lowell,America East,MA,#004886
+Warhawks,Red Hawk,La.-Monroe,Sun Belt,LA,#660000
+Mountain Hawks,Hawk,Lehigh,Patriot League,PA,#653600
+Hawks,Hawk,Hartford,America East,CT,#ec1a2c
+Hawkeyes,Hawk,Iowa,Big Ten,IA,#141414
+Braves,Hawk,Alcorn,Southwestern Athletic,MS,#703690
+Hawks,Hawk,Monmouth,Metro Atlantic Athletic,NJ,#002147
+Hawks,Hawk,Saint Joseph's,Atlantic 10,PA,#a80532
+Redhawks,Redhawks,Seattle U,Western Athletic,WA,#c3362e
+Redhawks,Redhawks,Southeast Mo. St.,Ohio Valley,MO,#e03a3e
+Eagles,Eagle,Coppin St.,Mid Eastern Athletic,MD,#dfb100
+Eagles,Eagle,Winthrop,Big South,SC,#a90533
+Eagles,Eagle,Ga. Southern,Sun Belt,GA,#000066
+Eagles,Eagle,Eastern Wash.,Big Sky,WA,#a10022
+Eagles,Eagle,N.C. Central,Mid Eastern Athletic,NC,#880023
+Eagles,Eagle,Morehead St.,Ohio Valley,KY,#ffc300
+Eagles,Eagle,Eastern Mich.,Mid-American,MI,#007c4e
+Eagles,Eagle,American,Patriot League,DC,#cf102d
+Flames,Eagle,Liberty,Big South,VA,#15264e
+Purple Eagles,Eagle,Niagara,Metro Atlantic Athletic,NY,#502d7f
+Eagles,Eagle,Boston College,Atlantic Coast,MA,#98002e
+Eagles,Eagle,FGCU,Atlantic Sun,FL,#00287A
+Ospreys,Osprey,North Florida,Atlantic Sun,FL,#001a49
+Seahawks,Osprey,Wagner,Northeast,NY,#336356
+Seahawks,Osprey,UNCW,Colonial,NC,#192857
+Golden Eagles,Golden Eagle,Tennessee Tech,Ohio Valley,TN,#d7aa01
+Golden Eagles,Golden Eagle,Marquette,Big East,WI,#003366
+Golden Flashes,Golden Eagle,Kent St.,Mid-American,OH,#002664
+Golden Eagles,Golden Eagle,Oral Roberts,Summit League,OK,#c4b888
+Golden Eagles,Golden Eagle,Southern Miss.,Conference USA,MS,#f0bc28
+Utes,Red-tailed Hawk,Utah,Pacific 12,UT,#c20430
+Penguins,Penguin,Youngstown St.,Horizon,OH,#d41a00
